@@ -1,5 +1,5 @@
 AuthName "Please enter password"
 AuthType Basic
-AuthUserFile /customers/7/b/9/ramiko12.github.io/httpd.www/.htpasswd
+AuthUserFile ramiko12.github.io/httpd.www/.htpasswd
 AuthGroupFile /dev/null 
 require valid-user
